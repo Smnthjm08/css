@@ -1,2 +1,2 @@
 # css
-Basic CSS Projects
+Basic CSS Projects and HTML Projects
